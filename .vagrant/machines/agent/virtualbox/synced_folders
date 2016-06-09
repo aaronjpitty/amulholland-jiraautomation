@@ -1,0 +1,1 @@
+{"virtualbox":{"/tmp/shared":{"guestpath":"/tmp/shared","hostpath":"C:/Users/Aaron/Desktop/amulholland-jiraautomation/shared","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Aaron/Desktop/amulholland-jiraautomation","disabled":false,"__vagrantfile":true}}}
